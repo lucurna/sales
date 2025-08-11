@@ -93,12 +93,14 @@ const config = {
           },
           //{to: '/blog', label: 'Blog', position: 'left'},//
           //Suspendí la presentación del blog//
+          /*
           {
             // CAMBIO: Apunta a tu GitHub
             href: 'https://github.com/lucurna/sales',
             label: 'GitHub',
             position: 'right',
           },
+          */
         ],
       },
       footer: {

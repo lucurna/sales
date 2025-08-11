@@ -1,0 +1,8 @@
+{
+    "label": "Dirigir un Acto",
+    "position":9,
+    "link":{
+        "type": "generated-index",
+        "description": "Conoce como Dirigir una Conversación en LucUrna."
+    }
+}

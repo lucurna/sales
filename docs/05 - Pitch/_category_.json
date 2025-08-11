@@ -1,0 +1,8 @@
+{
+    "label": "Elevator Pitch",
+    "position":8,
+    "link":{
+        "type": "generated-index",
+        "description": "Conoce como abordamos el Elevator Pitch en LucUrna."
+    }
+}

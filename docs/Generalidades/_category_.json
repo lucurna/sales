@@ -1,0 +1,8 @@
+{
+    "label": "Generalidades",
+    "position":2,
+    "link":{
+        "type": "generated-index",
+        "description": "Conoce algunos asuntos generales de LucUrna."
+    }
+}

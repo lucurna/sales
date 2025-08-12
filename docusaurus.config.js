@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'LucUrna',
   tagline: 'una fuente de luz en los momentos en que se necesita un poco de claridad.',
-  favicon: 'img/lucurna.svg',
+  favicon: 'img/lucurna-favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -82,7 +82,7 @@ const config = {
         title: 'LucUrna',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/lucurna.svg',
+          src: 'img/lucurna-guayacan.svg',
         },
         items: [
           {

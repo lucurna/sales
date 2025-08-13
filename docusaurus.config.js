@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'LucUrna',
-  tagline: 'una fuente de luz en los momentos en que se necesita un poco de claridad.',
+  tagline: 'Una fuente de luz en los momentos en que se necesita un poco de claridad.',
   favicon: 'img/lucurna-favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -105,6 +105,7 @@ const config = {
       },
       footer: {
         style: 'dark',
+        /*
         links: [
           {
             title: 'Docs',
@@ -147,8 +148,10 @@ const config = {
             ],
           },
         ],
+        */
         // CAMBIO: Actualiza el copyright
-        copyright: `Copyright © ${new Date().getFullYear()} LucUrna. Built with Docusaurus.`,
+        /*copyright: `Copyright © ${new Date().getFullYear()} LucUrna. Built with Docusaurus.`,*/
+        copyright: `© ${new Date().getFullYear()} LucUrna • Construido con ❤️ usando Docusaurus`,
       },
       prism: {
         theme: prismThemes.github,
